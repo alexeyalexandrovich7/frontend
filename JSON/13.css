@@ -16,7 +16,7 @@ h1 {
     height: 80px;
     align-items: center;
     display: flex;
-    justify-content: center;
+    justify-content: left;
     border: 5px solid darkgreen;
 }
 
@@ -32,8 +32,8 @@ table {
 
 th {
     padding: 10px 20px;
-    background: #66e955a2;
-    color: blue;
+    background: #93a092a2;
+    color: rgb(0, 0, 77);
      font-size: 35px;
 }
 
